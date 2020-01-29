@@ -1,0 +1,130 @@
+.topnav {
+	font-family: Montserrat; 
+	text-align: left;
+	font-size: 30px;
+	margin-top: 40px;
+	padding-bottom:50px;
+	margin-left: 200px;
+	
+color: white; }
+.active{
+	padding: 0 3px;
+}
+
+.socialmediatext {
+	font-family: Montserrat;
+}
+	
+/*links */
+a:link {
+    color: white;
+	text-decoration: none;
+}
+
+a:visited {
+    color: white;
+	text-decoration: none;
+}
+
+#menuelink {
+	color: white;
+	text-decoration: underline;
+    text-decoration-color: white;
+}
+
+
+body {
+	background-image: url("background.jpg"); 
+	background-size: 100%;
+	background-repeat: no-repeat; 
+    
+}
+ #col1 { 
+ 
+width: 600px; 
+ 
+margin-left:57px; 
+margin-top: 30px; 
+float: left;
+ margin-bottom: 20px;
+ }
+ #icons1 {
+	margin-left: 10px;
+ margin-top: 30px;
+ }
+ 
+ #col2 { 
+ 
+width: 600px; 
+ 
+margin-top: 30px; 
+margin-bottom: 20px;
+float: left; 
+}
+ #No-diggity {
+	margin-left: 15px; 
+	margin-top: 30px;
+	font-family: Corbel; 
+    line-height: 1.6;
+}
+
+#Bulza {
+	margin-left: 15px; 
+	font-family: Corbel; 
+	line-height: 1.6;
+	margin-top: 60px;
+}
+#LCC {
+	margin-left: 15px; 
+	margin-top: 30px;
+	font-size: 27px;
+	font-family: Corbel; 
+	line-height: 1.6;
+}
+ #col3 { 
+height: 630px; 
+width: 400px; 
+ 
+margin-top: 30px; 
+margin-bottom: 20px;
+float: left; 
+}
+
+
+
+	
+ #icons2 {
+	margin-left: 10px;
+ margin-top: 25px;
+ }
+ #col4 { 
+height: 630px; 
+width: 457px; 
+ 
+margin-right: 43px; 
+margin-top: 30px; 
+margin-bottom: 20px;
+float: left; 
+}
+.fa-facebook {
+    color: black;
+	border-radius: 50%;
+	width: 20px;
+    height: 20px;
+	
+}
+
+.fa-instagram {
+    color: black ;
+	border-radius: 50%;
+	width: 20px;
+    height: 20px;
+	
+}
+#socialmedia {
+	float: right;
+	margin-right: 250px;
+	margin-top: 15px;
+	font-size: 20px;
+	
+}

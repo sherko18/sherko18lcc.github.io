@@ -1,0 +1,103 @@
+
+h2 { 
+text-align: center;
+font-family: Corbel; 
+margin-top: 30px; 
+} 
+
+#myphoto {
+	height: 400px;
+    width: 500px;
+	margin-right: 90px;
+	float: right; 
+	margin-top: 30px; 
+	transform: rotate(-90deg);
+	
+}
+#Stass{
+	font-family: Montserrat;
+}
+.sign{
+	width:70px;
+	margin-left:350px;
+	margin-top:-30px;
+}
+.topnav {
+	font-family: Montserrat;
+	text-align: left;
+	font-size: 30px;
+	color: black; 
+	margin-top: 40px;
+		margin-left: 200px;
+}
+.active{
+	padding: 0 3px;
+}
+
+#menuelink {
+	color: white;
+	text-decoration: underline;
+    text-decoration-color: white;
+}
+
+
+body {
+	background-image: url("background.jpg"); 
+	background-size: 100%;
+	background-repeat: no-repeat; 
+    
+}
+
+#fadebackground {
+height: 360px; 
+width: 830px; 
+background-color: rgba(255,255,255, 0.5); 
+margin-left: 90px; 
+margin-top: 30px; 
+
+}
+#text {
+	margin-left: 40px; 
+	font-size: 17px;
+	font-family: Montserrat; 
+	line-height: 1.6;
+	color: rgb(0, 0, 87);
+	
+ }
+
+
+
+/*links */
+a:link {
+    color: white;	
+	text-decoration: none;
+}
+
+a:visited {
+    color: white;
+	text-decoration: none;
+}
+
+/* Social media */
+#socialmedia {
+	float: right;
+	margin-right: 250px;
+	margin-top: 15px;
+	font-size: 20px;
+}
+.fa-facebook {
+    color: red;
+	border-radius: 50%;
+	width: 20px;
+    height: 20px;
+	
+}
+
+.fa-instagram {
+    color: red ;
+	border-radius: 50%;
+	width: 20px;
+    height: 20px;
+	
+}
+
